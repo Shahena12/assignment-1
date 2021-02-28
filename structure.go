@@ -1,5 +1,3 @@
-// Golang program to show how to 
-// declare and define the struct 
 
 package main 
 
